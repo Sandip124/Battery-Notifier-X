@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryNotifierX", "BatteryNotifierX\BatteryNotifierX\BatteryNotifierX.csproj", "{8B35A263-9345-4518-9F8E-D9672BE82998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatteryNotifierX.Desktop", "BatteryNotifierX\BatteryNotifierX.Desktop\BatteryNotifierX.Desktop.csproj", "{6FBC6ACA-BBD8-4DA5-AF31-724B7CC1EAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B35A263-9345-4518-9F8E-D9672BE82998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B35A263-9345-4518-9F8E-D9672BE82998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B35A263-9345-4518-9F8E-D9672BE82998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B35A263-9345-4518-9F8E-D9672BE82998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBC6ACA-BBD8-4DA5-AF31-724B7CC1EAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBC6ACA-BBD8-4DA5-AF31-724B7CC1EAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBC6ACA-BBD8-4DA5-AF31-724B7CC1EAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBC6ACA-BBD8-4DA5-AF31-724B7CC1EAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
